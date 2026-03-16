@@ -12,9 +12,9 @@ pip install requirements.txt
 
 ```bash
 python inference.py \
-    --source_image "/path/to/source.jpg" \
-    --edited_image "/path/to/edited.jpg" \
-    --instruction "Add a cinematic vintage film effect by subtly desaturating colors and adding warm tones." \
-    --peft_dir "lora_checkpoints_visual" \ #lora checkpoints path, lora_checkpoints_visual/lora_checkpoints_editing/lora_checkpoints_preservation
-    --mode visual #evaluation dimension, visual/editing/preservation 
+    --source_image "/path/to/source.jpg" \  # Path to the original/source image
+    --edited_image "/path/to/edited.jpg" \  # Path to the edited/target image
+    --instruction "Editing instruction" \  # Editing instruction describing desired modifications
+    --peft_dir "lora_checkpoints_visual" \  # Directory containing LoRA checkpoints. Options: lora_checkpoints_visual / lora_checkpoints_editing / lora_checkpoints_preservation
+    --mode visual  # Evaluation dimension: 'visual' for visual quality, 'alignment' for instruction adherence, 'preservation' for attribute preservation
 ```
