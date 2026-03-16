@@ -6,4 +6,5 @@
 ```bash
 git clone https://github.com/YourUsername/EditHF.git
 cd EditHF
+pip install requirements.txt
 ```
