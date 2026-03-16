@@ -14,7 +14,7 @@ You can download the pre-trained LoRA checkpoints from the following links:
 📦 Installation
 
 ```bash
-git clone https://github.com/YourUsername/EditHF.git
+git clone https://github.com/IntMeGroup/EditHF.git
 cd EditHF
 pip install requirements.txt
 ```
