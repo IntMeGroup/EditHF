@@ -4,7 +4,8 @@
 **EditHF-1M** is a **million-scale** image editing dataset containing over **29M human preference pairs** and **148K human mean opinion scores (MOS)**, evaluated across three dimensions: **visual quality**, **editing alignment**, and **attribute preservation**.
 
 ## EditHF
-
+**EditHF** is an MLLM-based evaluation model trained on EditHF-1M to provide fine-grained scores aligned with human perception for image editing.
+ 
 📥 Model Weights
 
 You can download the pre-trained LoRA checkpoints from the following links:
