@@ -5,7 +5,7 @@
 📥 Model Weights
 
 You can download the pre-trained LoRA checkpoints from the following links:
-[EditHF](https://huggingface.co/sparkling621/EditHF)
+[EditHF](https://huggingface.co/sparkling621/EditHF/tree/main)
 
 📦 Installation
 
