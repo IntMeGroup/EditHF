@@ -8,7 +8,7 @@
  
 📥 Model Weights
 
-You can download the pre-trained LoRA checkpoints from the following links:
+You can download the pre-trained LoRA checkpoints from the following link:
 [EditHF](https://huggingface.co/sparkling621/EditHF/tree/main)
 
 📦 Installation
@@ -28,3 +28,10 @@ python inference.py \
     --peft_dir "lora_checkpoints_visual" \  # Directory containing LoRA checkpoints and MLP head. 
     --mode visual  # Evaluation dimension: 'visual' for visual quality, 'alignment' for editing instruction alignment, 'preservation' for attribute preservation
 ```
+## EditHF-Reward
+**EditHF-Reward** is a reward modeling approach that utilizes EditHF signals to improve text-guided image editing models through reinforcement learning.
+
+📥 Model Weights
+
+You can download the advanced image editing model refined with our EditHF-Reward from the following link:
+[EditHF-Reward(Qwen-Image-Edit)]
