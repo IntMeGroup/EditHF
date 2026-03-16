@@ -2,5 +2,8 @@
 
 ## EditHF
 📦 Installation
+
+```bash
 git clone https://github.com/YourUsername/EditHF.git
 cd EditHF
+```
