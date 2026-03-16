@@ -1,6 +1,12 @@
 # EditHF-1M: A Million-Scale Rich Human Preference Feedback for Image Editing
 
 ## EditHF
+
+📥 Model Weights
+
+You can download the pre-trained LoRA checkpoints from the following links:
+[EditHF](https://huggingface.co/sparkling621/EditHF)
+
 📦 Installation
 
 ```bash
