@@ -33,5 +33,5 @@ python inference.py \
 
 📥 Model Weights
 
-You can download the advanced image editing model **Qwen-Image-Edit refined with EditHF-Reward** from the following link:
+You can download the image editing model **Qwen-Image-Edit refined with our EditHF-Reward** from the following link:
 [Qwen-Image-Edit(EditHF-Reward)](https://huggingface.co/sparkling621/EditHF-Reward/tree/main)
