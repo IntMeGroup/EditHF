@@ -9,7 +9,6 @@
 📥 Model Weights
 
 You can download the pre-trained LoRA checkpoints from the following link:
-
 [EditHF](https://huggingface.co/sparkling621/EditHF/tree/main)
 
 📦 Installation
@@ -34,6 +33,5 @@ python inference.py \
 
 📥 Model Weights
 
-You can download the advanced image editing model refined with our EditHF-Reward from the following link:
-
+You can download the advanced image editing model refined with EditHF-Reward from the following link:
 [EditHF-Reward(Qwen-Image-Edit)]
