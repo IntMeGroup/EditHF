@@ -33,8 +33,7 @@ python inference.py \
 **EditHF-Reward** is a reward modeling approach that utilizes EditHF signals to improve text-guided image editing models through reinforcement learning.
 
 📥 Model Weights
+![](visualization.png)
 
 You can download the advanced image editing model **Qwen-Image-Edit refined with our EditHF-Reward** from the following link:
 [Qwen-Image-Edit(EditHF-Reward)](https://huggingface.co/sparkling621/EditHF-Reward/tree/main)
-
-![](visualization.png)
