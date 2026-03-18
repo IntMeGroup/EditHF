@@ -1,4 +1,10 @@
-<h1 align="center"> EditHF-1M: A Million-Scale Rich Human Preference Feedback for Image Editing
+<div align="center">
+   <h1>EditHF-1M: A Million-Scale Rich Human Preference Feedback for Image Editing</h1>
+   <div>
+      <!-- <a href="https://arxiv.org/abs/2603.14916"><img src="https://arxiv.org/abs/2603.14916"/></a> -->
+      <a href="https://arxiv.org/abs/2603.14916"><img src="https://img.shields.io/badge/Arxiv-2603.14916-red"/></a>
+   </div>
+</div>
 
 ## EditHF-1M
 **EditHF-1M** is a **million-scale** image editing dataset containing over **29M human preference pairs** and **148K human mean opinion scores (MOS)**, evaluated across three dimensions: **visual quality**, **editing alignment**, and **attribute preservation**.
