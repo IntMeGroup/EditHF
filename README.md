@@ -40,3 +40,14 @@ You can download the advanced image editing model **Qwen-Image-Edit refined with
 🎨 Editing Examples
 
 ![](visualization.png)
+
+## 🎓 Citations
+If you find our work useful, please cite our paper as:
+```bash
+@article{xu2026edithf1mmillionscalerichhuman,
+      title={EditHF-1M: A Million-Scale Rich Human Preference Feedback for Image Editing}, 
+      author={Zitong Xu and Huiyu Duan and Zhongpeng Ji and Xinyun Zhang and Yutao Liu and Xiongkuo Min and others},
+      year={2026},
+      journal={arXiv preprint arXiv:2603.14916}, 
+}
+```
