@@ -1,4 +1,4 @@
-# EditHF-1M: A Million-Scale Rich Human Preference Feedback for Image Editing
+<h1 align="center"> EditHF-1M: A Million-Scale Rich Human Preference Feedback for Image Editing
 
 ## EditHF-1M
 **EditHF-1M** is a **million-scale** image editing dataset containing over **29M human preference pairs** and **148K human mean opinion scores (MOS)**, evaluated across three dimensions: **visual quality**, **editing alignment**, and **attribute preservation**.
