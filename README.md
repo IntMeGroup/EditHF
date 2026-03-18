@@ -2,6 +2,7 @@
 
 ## EditHF-1M
 **EditHF-1M** is a **million-scale** image editing dataset containing over **29M human preference pairs** and **148K human mean opinion scores (MOS)**, evaluated across three dimensions: **visual quality**, **editing alignment**, and **attribute preservation**.
+![](benchmark.png)
 
 ## EditHF
 **EditHF** is an MLLM-based evaluation model trained on EditHF-1M to provide fine-grained, human-aligned scores for image editing across dimensions: **visual quality**, **editing alignment**, and **attribute preservation**.
@@ -35,3 +36,5 @@ python inference.py \
 
 You can download the advanced image editing model **Qwen-Image-Edit refined with our EditHF-Reward** from the following link:
 [Qwen-Image-Edit(EditHF-Reward)](https://huggingface.co/sparkling621/EditHF-Reward/tree/main)
+
+![](visualization.png)
