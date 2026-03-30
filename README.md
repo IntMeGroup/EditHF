@@ -10,6 +10,8 @@
 **EditHF-1M** is a **million-scale** image editing dataset containing over **29M human preference pairs** and **148K human mean opinion scores (MOS)**, evaluated across three dimensions: **visual quality**, **editing alignment**, and **attribute preservation**.
 ![](benchmark.png)
 
+**IEQA**: A subset of the EditHF-1M dataset is adopted as the IEQA dataset for the New Trends in Image Restoration and Enhancement (NTIRE) Workshop and Challenge @ CVPR 2026, under the [X-AIGC Quality Assessment – Track 2: Image Editing](https://www.codabench.org/competitions/13031/).
+
 ## EditHF
 **EditHF** is an MLLM-based evaluation model trained on EditHF-1M to provide fine-grained, human-aligned scores for image editing across dimensions: **visual quality**, **editing alignment**, and **attribute preservation**.
  
