@@ -11,6 +11,7 @@
 ![](benchmark.png)
 
 **IEQA**: A subset of the EditHF-1M dataset is adopted as the IEQA dataset for the New Trends in Image Restoration and Enhancement (NTIRE) Workshop and Challenge @ CVPR 2026, under the [X-AIGC Quality Assessment – Track 2: Image Editing](https://www.codabench.org/competitions/13031/).
+You can download the IEQA dataset from the following link: [IEQA](https://huggingface.co/datasets/sparkling621/IEQA/tree/main)
 
 ## EditHF
 **EditHF** is an MLLM-based evaluation model trained on EditHF-1M to provide fine-grained, human-aligned scores for image editing across dimensions: **visual quality**, **editing alignment**, and **attribute preservation**.
