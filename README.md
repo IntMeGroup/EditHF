@@ -49,8 +49,8 @@ You can download the advanced image editing model **Qwen-Image-Edit refined with
 
 ⚡ Quick Start
 
-diffusers==0.36.0.dev0
 ```bash
+pip install diffusers==0.36.0
 python Qweninfer.py \
   --source_image "/path/to/source.jpg" \  # Path to the original/source image
   --instruction "apply a warm cinematic tone" \  # Editing instruction describing desired modifications
