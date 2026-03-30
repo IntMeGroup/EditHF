@@ -54,7 +54,7 @@ pip install diffusers==0.36.0
 python Qweninfer.py \
   --source_image "/path/to/source.jpg" \  # Path to the original/source image
   --instruction "apply a warm cinematic tone" \  # Editing instruction describing desired modifications
-  --output output.jpg \ # Output image path
+  --output "/path/to/output.jpg" \ # Output image path
 ```
 
 🎨 Editing Examples
