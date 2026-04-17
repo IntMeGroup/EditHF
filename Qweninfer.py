@@ -13,7 +13,7 @@ def parse_args():
     parser.add_argument("--output", type=str, default="output.jpg", help="Output image path")
 
     parser.add_argument("--model_root", type=str, default="Qwen/Qwen-Image-Edit-2509")
-    parser.add_argument("--transformer_path", type=str, default="sparkling621/EditHF-Reward/transformer")
+    parser.add_argument("--transformer_path", type=str, default="sparkling621/EditHF-Reward")
 
     parser.add_argument("--steps", type=int, default=40)
     parser.add_argument("--cfg", type=float, default=4.0)
@@ -28,8 +28,9 @@ def parse_args():
 def load_pipeline(model_root, transformer_path, device):
     print("Loading transformer...")
     transformer = QwenImageTransformer2DModel.from_pretrained(
-        transformer_path,
-        torch_dtype=torch.bfloat16
+    transformer_path,
+    subfolder="transformer",
+    torch_dtype=torch.bfloat16
     ).to(device)
 
     print("Loading pipeline...")
