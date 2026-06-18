@@ -6,7 +6,7 @@
    </div>
 </div>
 
-🔥 **This work has been accepted to ECCV 2026.**
+🎉 **Our paper has been accepted to ECCV 2026.**
 
 ## EditHF-1M
 
