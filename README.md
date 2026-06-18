@@ -8,6 +8,7 @@
 
 ## EditHF-1M
 🔥 **This work has been accepted to ECCV 2026.**
+
 **EditHF-1M** is a **million-scale** image editing dataset containing over **29M human preference pairs** and **148K human mean opinion scores (MOS)**, evaluated across three dimensions: **visual quality**, **editing alignment**, and **attribute preservation**.
 ![](benchmark.png)
 
