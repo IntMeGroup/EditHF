@@ -7,9 +7,9 @@
 </div>
 
 ## EditHF-1M
+![](benchmark.png)
 
 **EditHF-1M** is a **million-scale** image editing dataset containing over **29M human preference pairs** and **148K human mean opinion scores (MOS)**, evaluated across three dimensions: **visual quality**, **editing alignment**, and **attribute preservation**.
-![](benchmark.png)
 
 You can download the EditHF-1M dataset from the following link: [EditHF-1M](https://huggingface.co/datasets/sparkling621/EditHF-1M/tree/main)
 
