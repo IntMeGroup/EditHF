@@ -5,7 +5,7 @@
       <a href="https://arxiv.org/abs/2603.14916"><img src="https://img.shields.io/badge/Arxiv-2603.14916-red"/></a>
    </div>
 </div>
-
+🎉 **Accepted to ECCV 2026**
 ## EditHF-1M
 ![](benchmark.png)
 
