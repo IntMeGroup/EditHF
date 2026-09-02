@@ -6,6 +6,7 @@
    </div>
 </div>
 🎉 **Accepted to ECCV 2026**
+
 ## EditHF-1M
 ![](benchmark.png)
 
